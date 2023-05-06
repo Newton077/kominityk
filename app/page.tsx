@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <div className='pt-20'>
       <div className='flex flex-col justify-center items-center'>
-        <h1 className='text-5xl mb-6 font-bold'>Hello Lens 🌿</h1>
+        <h1 className='text-5xl mb-6 font-bold'>Hello Kominityk 👾</h1>
         {
           profiles.map(profile => (
             <div key={profile.id} className='w-2/3 shadow-md p-6 rounded-lg mb-8 flex flex-col items-center'>
